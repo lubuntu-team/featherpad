@@ -1,3 +1,9 @@
+featherpad (1.5.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 06 Jul 2024 11:56:43 -0500
+
 featherpad (1.4.1-0ubuntu1) noble; urgency=medium
 
   * New upstream release.
