@@ -1,10 +1,10 @@
-featherpad (1.5.1-0ubuntu1) UNRELEASED; urgency=medium
+featherpad (1.5.1-0ubuntu1) oracular; urgency=medium
 
   * New upstream release.
   * Update Standards-version to 4.7.0, no changes needed.
   * Update copyright.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 06 Jul 2024 11:56:43 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 06 Jul 2024 12:03:42 -0500
 
 featherpad (1.4.1-0ubuntu1) noble; urgency=medium
 
